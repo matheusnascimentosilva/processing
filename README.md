@@ -18,8 +18,6 @@ https://github.com/processing/processing4/releases/download/processing-1282-4.0b
 Mac:
 https://github.com/processing/processing4/releases/download/processing-1282-4.0b7/processing-4.0b7-macos-x64.zip
 
-# Projeto de Iniciação Científica
-Desenvolvimento de um material didático afim de auxiliar alunos do ensino médio no aprondizado de conceitos matemáticos.
-Mostrar na prática a importância dos conceitos estudados em sala de aula, fazendo a ligação com a computação e no que é possível desenvolver somente usando conceitos vistos em sala de aula.
+
 
 
